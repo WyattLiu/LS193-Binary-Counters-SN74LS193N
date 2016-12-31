@@ -1,4 +1,4 @@
-# LS193-Binary-Counters-SN74LS193N-
+# LS193-Binary-Counters-SN74LS193N
 Work for designs with standard ICs using Verilog for prototyping
 ## Challenge
 1. UP and DOWN are edge sensitive for both posedge and negedge for CO_Bar and BO_Bar, work around: use QD to pull up
