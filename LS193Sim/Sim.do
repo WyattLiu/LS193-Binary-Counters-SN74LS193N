@@ -71,5 +71,5 @@ force DOWN 1 32
 force DOWN 0 33
 force DOWN 1 34
 
-# 7) Run the simulation for 31 ns
+# 7) Run the simulation for 34 ns
 run 34
